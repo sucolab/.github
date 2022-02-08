@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.sucolab.jp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.sucolab.jp/assets/img/logo.svg" alt="Sucolab logo" width="25%">
+    <img src="https://www.sucolab.jp/assets/img/og-image.jpg" alt="Sucolab logo" width="100%">
   </a>
 </h1>
 
@@ -28,8 +28,17 @@
 <h2 align="center"> Links </h2>
 <br>
 <div align="center">
-<a href="https://twitter.com/sucolab_jp" target="_blank" rel="noopener noreferrer"> Twitter </a> &emsp;&emsp;&emsp;&emsp;
-<a href="https://www.sucolab.jp/" target="_blank" rel="noopener noreferrer"> Website </a> &emsp;&emsp;&emsp;&emsp;
-<a href="https://www.sucolab.jp/term/" target="_blank" rel="noopener noreferrer"> Term </a> &emsp;&emsp;&emsp;&emsp;
+<table>
+<tr>
+<td>
+<a href="https://twitter.com/sucolab_jp" target="_blank" rel="noopener noreferrer"> Twitter </a>
+</td><td>
+<a href="https://www.sucolab.jp/" target="_blank" rel="noopener noreferrer"> Website </a>
+</td><td>
+<a href="https://www.sucolab.jp/term/" target="_blank" rel="noopener noreferrer"> Term </a>
+</td><td>
 <a href="https://www.sucolab.jp/privacy/" target="_blank" rel="noopener noreferrer"> Privacy Policy </a>
+</td>
+</tr>
+</table>
 </div>
