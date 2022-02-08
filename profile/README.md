@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.sucolab.jp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.sucolab.jp/assets/img/logo.svg" alt="Sucolab logo" width="25%">
+    <img src="https://www.sucolab.jp/assets/img/og-image.jpg" alt="Sucolab logo" width="100%">
   </a>
 </h1>
 
